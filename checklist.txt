@@ -1,0 +1,6 @@
+File operations
+file creation
+edit file
+delete
+search 
+seal
